@@ -20,6 +20,8 @@ Para realizar esse exercício você só deverá utilizar essas propriedades _CSS
 
 Gaste o tempo que achar necessário comporeendendo a estrutura do site, uma dica é utilizar os _highlights_ que o console do Google Chrome disponibiliza. Com ele você entenderá melhor quais serão os _flex-containers_ e quais serão os _flex-itens_.
 
+__IMPORTANTE__: Para se cumprir com o objetivo desse exercício as alterações só deverão ser realizadas no arquivo _style.css_, o arquivo _index.html_ deverá permanecer inalterado.
+
 Com os arquivos desse repositório seu site irá renderizar assim no seu navegador:
 
 ![](https://i.imgur.com/DwivBNY.gif)
