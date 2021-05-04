@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+h2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin-bottom: .5rem;
+  color: #3d495c;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  opacity: 70%;
+  font-family: inherit;
+}
+
+h4 {
+  margin-top: .75rem;
+  color: rgba(61, 73, 92, var(--text-opacity));
+  opacity: 70%;
+}
+
+h6 {
+  font-size: 1rem;
+  color: #3d495c;
+  font-family: inherit;
+  font-weight: 500;
+}
+
+.header {
+  padding: 8px;
+}
+
+.header-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.header-img-icon {
+  width: 40px;
+}
+
+.left-header p {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #3d495c;
+}
+
+.right-header span {
+  font-size: 15px;
+  opacity: 70%;
+}
+
+.left-header img , .left-header p , .right-header img , .right-header span {
+  margin: 0 15px;
+}
+
+.main-content {
+  padding: 10px 15px;
+  width: 100%;
+  max-width: 80rem;
+  margin: auto;
+}
+
+.hard-skill-cards {
+  margin: 10px;
+  width: 290px;
+  height: 320px;
+  border: 2px solid whitesmoke;
+  border-radius: 10px;
+}
+
+.hard-skill-cards div {
+  padding: 32px 16px 16px;
+}
+
+.hard-skill-cards div h6 {
+  font-size: 10px;
+  margin: 5px 0;
+}
+
+.img-icon {
+  text-align: center;
+  padding: 32px;
+  height: max-content;
+  width: 100%;
+  background-color: whitesmoke;
+  border-radius: 8px 8px 0 0;
+}
+
+.img-icon img {
+  width: 150px;
+  height: 140px;
+}
+
+.section-2-card {
+  margin: 10px;
+  flex-basis: 40%;
+  flex-grow: 2;
+  border: 2px solid whitesmoke;
+  border-radius: 10px;
+}
+
+.section-2-card div {
+  width: 80%;
+}
+
+.section-2-card div h3 {
+  font-size: 1rem;
+  max-width: 80%;
+}
+
+.section-2-card div h4 {
+  font-size: .75rem;
+  font-weight: 500;
+}
+
+.section-2-card img {
+  background-color: whitesmoke;
+  padding: 40px;
+  border-radius: 0 8px;
+}
+
+footer {
+  font-size: .75rem;
+  width: 100%;
+  padding: 15px 5px;
+  opacity: 70%;
+  border-top: 1px solid black;
+}
+
+footer div span {
+  margin: 20px
+}
