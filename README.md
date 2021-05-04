@@ -34,11 +34,11 @@ Você terá que aplicar essas propriedades:
 
 - [ ] ```display: flex;``` - seis vezes;
 - [ ] ```flex-direction: column;``` - três vezes;
-- [ ] ```justify-content: space-between;``` - duas vezes
-- [ ] ```justify-conente: center;``` - uma vez
-- [ ] ```justify-content: space-evenly;``` - uma vez
+- [ ] ```justify-content: space-between;``` - duas vezes;
+- [ ] ```justify-conente: center;``` - uma vez;
+- [ ] ```justify-content: space-evenly;``` - uma vez;
 - [ ] ```align-items: center;``` - uma vez;
-- [ ] ```flex-wrap: wrap;``` - uma vez
+- [ ] ```flex-wrap: wrap;``` - uma vez.
 
 Elas serão aplicadas nesses elementos:
 
@@ -50,6 +50,6 @@ Elas serão aplicadas nesses elementos:
 - [ ] .section;
 - [ ] .section-2-card;
 - [ ] .section-2-card div;
-- [ ] footer
+- [ ] footer.
 
 Mãos à obra! #vqv
