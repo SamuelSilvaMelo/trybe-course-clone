@@ -1,4 +1,4 @@
-# trybe-course-clone
+# Trybe Course Clone
 
 ## Antes de iniciar
 
